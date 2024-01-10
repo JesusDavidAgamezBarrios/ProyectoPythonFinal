@@ -1,0 +1,15 @@
+[
+  {
+    "id_number": "1",
+    "first_name": "Miguel",
+    "last_name": "angel",
+    "address": "giron",
+    "emergency_contact": "lina",
+    "numbers": [
+      "318840",
+      "623"
+    ],
+    "route": "NodeJS",
+    "schedule": "morning"
+  }
+]

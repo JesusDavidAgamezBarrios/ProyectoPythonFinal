@@ -1,0 +1,16 @@
+[
+  {
+    "id_number": "1",
+    "first_name": "Jesus David",
+    "last_name": "Arismendi Vega",
+    "address": "Real de minas",
+    "emergency_contact": "3169228582",
+    "numbers": [
+      "3187331888",
+      "6076123673"
+    ],
+    "route": "",
+    "trainer_id": "",
+    "state": "approved"
+  }
+]

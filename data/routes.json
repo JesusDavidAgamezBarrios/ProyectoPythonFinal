@@ -1,0 +1,28 @@
+[
+  {
+    "name": "1",
+    "fundaments_of_programming": [
+      "Introduction to algoritms",
+      "PSeint",
+      "Python"
+    ],
+    "web_programming": [
+      "HTML",
+      "CSS",
+      "Bootsrap"
+    ],
+    "formal_programming": [
+      "JavaScript"
+    ],
+    "databases": [
+      "MongoDbl",
+      "Postgresql"
+    ],
+    "backend": [
+      "NodeJS",
+      "Express",
+      "Spring Boot",
+      "NetCore"
+    ]
+  }
+]
