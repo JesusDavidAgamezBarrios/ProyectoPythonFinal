@@ -10,7 +10,21 @@
       "6076123673"
     ],
     "route": "",
+    "trainer_id": "1",
+    "state": "reprobate"
+  },
+  {
+    "id_number": "3",
+    "first_name": "jesus",
+    "last_name": "barrios",
+    "address": "3",
+    "emergency_contact": "12345",
+    "numbers": [
+      "300344222",
+      "345677"
+    ],
+    "route": "",
     "trainer_id": "",
-    "state": "approved"
+    "state": "reprobate"
   }
 ]

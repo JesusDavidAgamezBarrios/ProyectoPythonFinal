@@ -24,5 +24,27 @@
       "Spring Boot",
       "NetCore"
     ]
+  },
+  {
+    "name": "Java",
+    "fundaments_of_programming": [
+      "Introduction to algoritms",
+      "Python"
+    ],
+    "web_programming": [
+      "HTML",
+      "CSS"
+    ],
+    "formal_programming": [
+      "JavaScript"
+    ],
+    "databases": [
+      "MongoDbl",
+      "Mysql"
+    ],
+    "backend": [
+      "NodeJS",
+      "Express"
+    ]
   }
 ]

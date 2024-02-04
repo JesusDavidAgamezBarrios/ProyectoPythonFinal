@@ -1,5 +1,6 @@
 from commons.menus import *
 from commons.utils import *
+
 def new_route(file_path_routes):
     routes = load_json(file_path_routes)
     name = input("Type the name of the new route:")
